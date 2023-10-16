@@ -76,7 +76,7 @@ users = [
     },
     {
         "name": "Michael Jordan",
-        "birthday": datetime.datetime(1963, 2, 17),
+        "birthday": datetime.datetime(1963, 10, 17),
     },
     {
         "name": "Lionel Messi",
@@ -92,14 +92,14 @@ users = [
     },
     {
         "name": "Roger Federer",
-        "birthday": datetime.datetime(1981, 8, 8),
+        "birthday": datetime.datetime(1981, 10, 16),
     },
     {
         "name": "Michael Phelps",
-        "birthday": datetime.datetime(1985, 8, 30),
+        "birthday": datetime.datetime(1985, 10, 22),
     },
     {
         "name": "Usain Bolt",
-        "birthday": datetime.datetime(1986, 8, 21),
+        "birthday": datetime.datetime(1986, 10, 21),
     },
 ]
